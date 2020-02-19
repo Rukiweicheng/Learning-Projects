@@ -22,9 +22,11 @@
 ### Expenrimentation
 
 ### Data Piplines
+* Datacamp Data Engineering
 * [Robert Chang's Beginal Guide to Data Engineering I II III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 * Introdcution to Data Engineering
   * (https://www.jiqizhixin.com/articles/2019-01-25-15)
+* Mastering Large Datasets with Python
 
 
 ## 2020 Book List:
