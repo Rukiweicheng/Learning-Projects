@@ -3,6 +3,11 @@
 * Identify learning milestores
 * Develop learning curriculum
 
+## Daily Work
+* Leetcode (2 questions at least)
+* SQL
+* Read blog to develop product sense
+
 ## DS Responsibility Buckets
 ### Data insight (why...)
 **Skill needed:**
