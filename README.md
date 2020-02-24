@@ -21,6 +21,11 @@
     * [Advanced Tableau Guide for DS and BI](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 
 * Business Sense
+  * Product sense
+    * [Product Teardowns](https://medium.com/we-are-yammer/product-teardowns-at-yammer-e2c4d5f0e2ff)
+    * [Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
+  * Analytical skills/problem solving
+    * Problem Solving 101
 
 ### Modeling
 
