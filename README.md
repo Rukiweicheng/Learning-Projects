@@ -3,10 +3,6 @@
 * Identify learning milestores
 * Develop learning curriculum
 
-## Daily Work
-* Leetcode (2 questions at least)
-* SQL
-* Read blog to develop product sense
 
 ## DS Responsibility Buckets
 ### Data insight (why...)
@@ -21,6 +17,11 @@
     * [Advanced Tableau Guide for DS and BI](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
 
 * Business Sense
+  * Books
+    * Data Science Take Home Challenge - Product
+    * Facebook Product
+    * Lean Analytics
+  * Cases:https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
   * Product sense
     * [Product Teardowns](https://medium.com/we-are-yammer/product-teardowns-at-yammer-e2c4d5f0e2ff)
     * [Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
