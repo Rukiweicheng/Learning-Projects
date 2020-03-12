@@ -9,7 +9,15 @@
 **Skill needed:**
 * Data Manipulation 
   * SQL
+    * LeetCode
+    * Facebook SQL interview questions
+    * Cracking coding interview sql part
+   
   * Python-Pandas
+    * [10 min to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+    * pandas to SQL
+    * regular expression (automate boring stuff with python)
+    * my notes
 
 * Data Visualization
   * Tableau
@@ -21,6 +29,9 @@
    * Data Science Take Home Challenge - Product
    * Facebook Product
    * Lean Analytics
+ * Blogs
+   * StellarPeers
+   * Company tech blog
  * Cases:https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
  * Product sense
    * [Product Teardowns](https://medium.com/we-are-yammer/product-teardowns-at-yammer-e2c4d5f0e2ff)
@@ -29,10 +40,20 @@
    * Problem Solving 101 
 
 ### Modeling
-
+* Hands-on ML
+* [NTU machine learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+* 周志华机器学习
 ### Expenrimentation
 * Stats
+  * Practical Stats for DS
+  * [Penn State 500](https://online.stat.psu.edu/stat500/lesson/3)
+  * [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/about)
+  * [Pactice](https://brilliant.org/daily-problems/)
+  * My notes
+  
 * AB Testing
+  * Udacity AB testing
+  * Bit Tiger 
 
 ### Data Piplines
 * Datacamp Data Engineering
