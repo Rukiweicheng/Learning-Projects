@@ -34,8 +34,10 @@
    * Company tech blog
  * Cases:https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
  * Product sense
-   * [Product Teardowns](https://medium.com/we-are-yammer/product-teardowns-at-yammer-e2c4d5f0e2ff)
-   * [Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
+   * 竞品比较
+   * 如何提升
+     * [Product Teardowns](https://medium.com/we-are-yammer/product-teardowns-at-yammer-e2c4d5f0e2ff)
+     * [Product Critique](https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638)
  * Analytical skills/problem solving
    * Problem Solving 101 
 
